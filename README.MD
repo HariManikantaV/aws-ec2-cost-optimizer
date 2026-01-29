@@ -1,0 +1,1 @@
+Python automation tool to identify unused AWS EC2 and EBS resources to reduce cloud cost.
